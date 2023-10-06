@@ -2,7 +2,7 @@
 
 **`Frontend Developer`**
 
-I'm an aspiring front-end developer, always looking for new knowledge and currently studying Computer Science.
+I am 20 years old and currently studying computer science at the Poznań University of Technology.
 
 #
 
