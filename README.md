@@ -2,7 +2,8 @@
 
 **`Dev`**
 
-I am 20 years old and currently studying computer science at the Poznań University of Technology.
+- 20 years old
+- Poznań University of Technology (1/8)
 
 #
 
