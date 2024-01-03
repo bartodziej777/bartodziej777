@@ -1,21 +1,14 @@
 # 👨‍💻Bartłomiej Błaszczyk
 
-**`Frontend Developer`**
+**`Dev`**
 
 I am 20 years old and currently studying computer science at the Poznań University of Technology.
 
 #
 
-### 🧰 Things I code with:
+### 📚 My current stack:
 
-![My Skills](https://skillicons.dev/icons?i=git,github,html,css,sass,javascript,typescript,react)
-<br />
-
-#
-
-### ⏳ Want to learn:
-
-![My Skills](https://skillicons.dev/icons?i=nextjs,graphql,nodejs,vue,docker)
+![My Skills](https://skillicons.dev/icons?i=html,css,sass,javascript,typescript,react)
 <br />
 
 #
