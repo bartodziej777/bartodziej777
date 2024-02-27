@@ -9,7 +9,7 @@
 
 ### 📚 My current stack:
 
-![My Skills](https://skillicons.dev/icons?i=html,css,sass,javascript,typescript,react,node)
+![My Skills](https://skillicons.dev/icons?i=html,css,sass,javascript,typescript,react,nodejs)
 <br />
 
 #
