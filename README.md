@@ -3,13 +3,13 @@
 **`Dev`**
 
 - 20 years old
-- Poznań University of Technology (1/8)
+- Poznań University of Technology (2/8)
 
 #
 
 ### 📚 My current stack:
 
-![My Skills](https://skillicons.dev/icons?i=html,css,sass,javascript,typescript,react)
+![My Skills](https://skillicons.dev/icons?i=html,css,sass,javascript,typescript,react,node)
 <br />
 
 #
