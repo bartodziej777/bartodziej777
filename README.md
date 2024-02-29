@@ -1,6 +1,6 @@
 # 👨‍💻Bartłomiej Błaszczyk
 
-**`Dev`**
+**`Junior Fullstack Developer`**
 
 - 20 years old
 - Poznań University of Technology (2/8)
