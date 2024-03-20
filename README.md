@@ -3,7 +3,7 @@
 **`Junior Web Developer`**
 
 - 20 years old
-- Poznań University of Technology (2/8)
+- Computer Science at Poznań University of Technology (2/8)
 
 #
 
