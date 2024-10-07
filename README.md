@@ -1,7 +1,5 @@
 # 👨‍💻Bartłomiej Błaszczyk
 
-**`Junior Web Developer`**
-
 - 21 years old
 - Computer Science at Poznań University of Technology (3/8)
 
