@@ -1,8 +1,5 @@
 # 👨‍💻Bartłomiej Błaszczyk
-
-- 21 years old
-- Computer Science at Poznań University of Technology (3/8)
-
+Computer Science student at Poznań University of Technology 
 #
 
 ### 📚 My current stack:
